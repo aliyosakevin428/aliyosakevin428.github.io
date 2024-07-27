@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "project 1",
+    "description": "lorem ipsum dolor sit",
+    "status": "active" 
+,    "image" : "images/project1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "project 2",
+    "description": "consectetur adipiscing elit",
+    "status": "inactive",
+    "image" : "images/"
+  },
+  {
+    "id": 3,
+    "name": "project 3",
+    "description": "sed do eiusmod tempor incididunt",
+    "status": "completed",
+    "image" : "images/"
+  },
+  {
+    "id": 4,
+    "name": "project 4",
+    "description": "ut labore et dolore magna aliqua",
+    "status": "active"
+ ,   "image" : "images/"
+  },
+  {
+    "id": 5,
+    "name": "project 5",
+    "description": "exercitation ullamco laboris nisi",
+    "status": "inactive",
+    "image" : "images/"
+  },
+  {
+    "id": 6,
+    "name": "project 6",
+    "description": "ullamco laboris nisi ut aliquip",
+    "status": "completed",
+    "image" : "images/"
+  },
+  {
+    "id": 7,
+    "name": "project 7",
+    "description": "eiusmod tempor incididunt ut labore",
+    "status": "active"
+ ,   "image" : "images/"
+  },
+  {
+    "id": 8,
+    "name": "project 8",
+    "description": "et dolore magna aliqua",
+    "status": "inactive",
+    "image" : "images/"
+  },
+  {
+    "id": 9,
+    "name": "project 9",
+    "description": "laboris nisi ut aliquip ex ea commodo consequat",
+    "status": "completed",
+    "image" : "images/"
+  },
+  {
+    "id": 10,
+    "name": "project 10",
+    "description": "sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "status": "active"
+ ,   "image" : "images/"
+  }
+]
