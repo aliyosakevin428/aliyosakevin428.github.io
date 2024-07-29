@@ -1,6 +1,5 @@
 import { Instagram } from "lucide-react";
 import { Youtube } from "lucide-react";
-import { Twitter } from "lucide-react";
 import { Mail } from "lucide-react";
 import { Send } from "lucide-react";
 
