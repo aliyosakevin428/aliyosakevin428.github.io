@@ -22,7 +22,7 @@ const ProjectPage = () => {
             <img src={data.image} alt="" className='bg-base-300 w-full'/>
           </figure>
           <div className="card-body">
-            <h3 className="card-title">{data.name}</h3>
+            <h3 className="card-title text-center">{data.name}</h3>
             <p className="text-sm">{data.description}</p>
           </div>
         </div>

@@ -9,13 +9,13 @@ export default {
       center: true,
     },
     fontFamily: {
-      raleway: ['Raleway', 'sans-serif'],
+      ubuntu: ["Ubuntu", "sans-serif"],
     },
     extend: {},
   },
   plugins: [daisyui, tsh],
   daisyui: {
-    themes: ['night'],
+    themes: ['halloween'],
   }
 };
 

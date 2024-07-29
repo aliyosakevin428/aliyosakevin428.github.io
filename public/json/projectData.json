@@ -1,72 +1,37 @@
 [
   {
     "id": 1,
-    "name": "project 1",
-    "description": "lorem ipsum dolor sit",
+    "name": "Project Real Drum App",
+    "description": "Saya Mengcover Lagu Dari Salah Satu Vtuber Ternama di Indonesia yang Berjudul Entah... Menggunakan Real Drum Aplikasi Pada Hape Saya",
     "status": "active" 
-,    "image" : "images/project1.jpg"
+,    "image" : "images/project1.png"
   },
   {
     "id": 2,
-    "name": "project 2",
-    "description": "consectetur adipiscing elit",
+    "name": "Project Real Drum Cover",
+    "description": "Ini Adalah Project saya yang akhir akhir ini yang saya kerjakan. Dari anime yang akhir-akhir ini lagi rame di bahas.",
     "status": "inactive",
-    "image" : "images/"
+    "image" : "images/project 2.png"
   },
   {
     "id": 3,
-    "name": "project 3",
-    "description": "sed do eiusmod tempor incididunt",
+    "name": "Project Real Drum Cover",
+    "description": "Pada Project ini dikarenakan ada teman saya yang request, jadi saya bikin cover real drumnya menggunakan lagu Yoasobi ini.",
     "status": "completed",
-    "image" : "images/"
+    "image" : "images/project3.png"
   },
   {
     "id": 4,
-    "name": "project 4",
-    "description": "ut labore et dolore magna aliqua",
-    "status": "active"
- ,   "image" : "images/"
+    "name": "Project Real Drum App",
+    "description": "Disini Saya mencoba untuk mengcover lagu dari band favorit saya yaitu BMTH dengan lagu yang berjudul 1x1 ",
+    "status": "active",
+   "image" : "images/project4.png"
   },
   {
     "id": 5,
-    "name": "project 5",
-    "description": "exercitation ullamco laboris nisi",
+    "name": "Project Multimedia Lahai-Roi",
+    "description": "Dalam Project ini, saya diberikan tanggung jawab sebagai teknisi dan cameramen pada tim Multimedia Di Gereja Saya di salah satu Gereja Toraja Jemaat Lahai-Roi Balikpapan",
     "status": "inactive",
-    "image" : "images/"
-  },
-  {
-    "id": 6,
-    "name": "project 6",
-    "description": "ullamco laboris nisi ut aliquip",
-    "status": "completed",
-    "image" : "images/"
-  },
-  {
-    "id": 7,
-    "name": "project 7",
-    "description": "eiusmod tempor incididunt ut labore",
-    "status": "active"
- ,   "image" : "images/"
-  },
-  {
-    "id": 8,
-    "name": "project 8",
-    "description": "et dolore magna aliqua",
-    "status": "inactive",
-    "image" : "images/"
-  },
-  {
-    "id": 9,
-    "name": "project 9",
-    "description": "laboris nisi ut aliquip ex ea commodo consequat",
-    "status": "completed",
-    "image" : "images/"
-  },
-  {
-    "id": 10,
-    "name": "project 10",
-    "description": "sunt in culpa qui officia deserunt mollit anim id est laborum",
-    "status": "active"
- ,   "image" : "images/"
+    "image" : "images/project5.png"
   }
 ]

@@ -8,7 +8,7 @@ const ProfilePage = () => {
       <div className="flex-1 space-y-10">
       <h1 className="text-5xl font-bold">Welcome To My Web Profile</h1>
       <p>
-        Halo nama saya Aliyosa Kevin. saya seorang Frontend Developer dan juga Content creator Real Drum Cover. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum omnis autem repudiandae accusantium atque soluta ipsa itaque est voluptate tempore perferendis quod illo, molestiae repellat aliquid deserunt laudantium eius a.
+        Halo nama saya Aliyosa Kevin. saya seorang Frontend Developer dan juga Content creator Real Drum Cover. Saya saat ini sedang melanjutkan pendidikan saya yaitu pendidikan vokasi LP3I di Kota Balikpapan. Saya juga menjadi Teknisi dan Cameraman Bersama Tim Multimedia Lahai-Roi. dan jika ada waktu luang saya memanfaat kan waktu tersebut dengan belajar atau membuat video dengan konten yang bertemakan cover lagu anime atau Vtuber.
       </p>
       </div>
       <div className="flex-none">
@@ -26,7 +26,7 @@ const ProfilePage = () => {
             <span>Frontend Developer</span>
           </h3>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius consectetur eaque laudantium quidem amet, debitis eligendi nisi inventore nulla? Fugit!
+          <p>Saya Saat Ini Sedang Mendalami Ilmu untuk menjadi seorang Frontend Developer dikarenakan saya sangat tertarik di dunia programming. jadi saya mohon maaf jika desain dari website profile saya seperti ini karena saya masih belajar ^.^
           </p>
         </div>
       </div>
@@ -37,7 +37,7 @@ const ProfilePage = () => {
             <span>Content Creator</span>
           </h3>
           <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius consectetur eaque laudantium quidem amet, debitis eligendi nisi inventore nulla? Fugit!
+          Saya Menjadi Content Creator awalnya hanya iseng saja tapi kok lama-lama banyak juga yang nonton video saya di Youtube, dan semenjak itu saya menjadi sering mengupload video pada channel saya di Youtube. walaupun saya sudah jarang upload video, subscriber saya masih tetap setia untuk menunggu saya mengupload video Real Drum Cover...
           </p>
         </div>
       </div>

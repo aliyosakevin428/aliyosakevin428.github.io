@@ -14,7 +14,7 @@ const ContactPage = () => {
         <p>
         Jika anda berminat untuk berkolaborasi dengan saya silahkan hubungi saya...
         </p>
-        <div className="flex-wrap gap-1">
+        <div className="flex-wrap space-x-1">
           <button className="btn">
             <Mail size={20} />
             <span>kevinpalulungan420@gmail.com</span>
@@ -24,18 +24,14 @@ const ContactPage = () => {
             <span>kevinpalulungan</span>
           </button>
           <button className="btn">
-            <Twitter size={20} />
-            <span>aliyosa.k</span>
-          </button>
-          <button className="btn">
             <Youtube size={20} />
-            <span>Aliyosa Kevin</span>
+            <span>Aliyosa Kevin / ケヴィン drums.</span>
           </button>
         </div>
       </div>
       <div className="card bg-base-200">
         <div className="card-body">
-          <h3 className="card-title">Kontak Saya</h3>
+          <h3 className="card-title">Hubungi Saya:</h3>
           
           <div className="py-4 space-y-2">
           <input type="text" className="input w-full" placeholder="Nama dan email kamu" />
