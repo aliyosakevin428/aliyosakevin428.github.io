@@ -10,6 +10,7 @@ const MainLayout = () => {
       <div className="container max-w-10xl p-10 space-y-12">
       <Outlet />
       </div>
+      <Footer />
     </div>
   )
 }
