@@ -15,7 +15,7 @@ export default {
   },
   plugins: [daisyui, tsh],
   daisyui: {
-    themes: ['cupcake'],
+    themes: ['coffee'],
   }
 };
 

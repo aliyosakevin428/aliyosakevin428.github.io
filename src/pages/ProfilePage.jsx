@@ -13,7 +13,7 @@ const ProfilePage = () => {
       </div>
       <div className="flex-none">
         <div className="avatar">
-          <div className="w-48 rounded-lg"><img src="kepin2.jpg" alt="" /></div>
+          <div className="w-48 rounded-lg"><img src="kepin2.png" alt="" /></div>
         </div>
       </div>
     </div>
