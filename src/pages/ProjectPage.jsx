@@ -10,7 +10,7 @@ const ProjectPage = () => {
   }, []);
   return(
     <>
-    <h1 className="text-5xl font-bold">Berikut Adalah Project Saya</h1>
+    <h1 className="text-5xl font-bold">Berikut Adalah Project Yang Saya Pernah Kerjakan</h1>
       <p>
         Berikut Adalah Project yang telah saya lakukan secara individu maupun kerja sama tim. silahkan di lihat-lihat saja hehe
       </p>
