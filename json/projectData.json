@@ -15,15 +15,15 @@
   },
   {
     "id": 3,
-    "name": "Project Real Drum Cover",
-    "description": "Pada Project ini dikarenakan ada teman saya yang request, jadi saya bikin cover real drumnya menggunakan lagu Yoasobi ini.",
+    "name": "Project Website Restoran",
+    "description": "Disini saya dan teman teman saya membuat project website restoran dengan bahasa PHP",
     "status": "completed",
     "image" : "images/project3.png"
   },
   {
     "id": 4,
-    "name": "Project Real Drum App",
-    "description": "Disini Saya mencoba untuk mengcover lagu dari band favorit saya yaitu BMTH dengan lagu yang berjudul 1x1 ",
+    "name": "Project Website Company Profile",
+    "description": "Di project ini saya hanya mencoba membuat website ini dengan 3 bahasa pemrograman. yaitu HTML, CSS, dan JavaScript",
     "status": "active",
    "image" : "images/project4.png"
   },
