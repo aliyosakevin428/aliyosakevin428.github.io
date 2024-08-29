@@ -7,7 +7,7 @@ const ContactPage = () => {
 
   return (
   <>
-    <div className="grid grid-cols-2 gap-10">+
+    <div className="grid grid-cols-2 gap-10">
       <div className="space-y-10">
         <h1 className="text-5xl font-bold">Contact Me</h1>
         <p>
