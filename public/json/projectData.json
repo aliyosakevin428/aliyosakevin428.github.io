@@ -24,15 +24,15 @@
     "id": 4,
     "name": "Project Website Company Profile",
     "description": "Di project ini saya hanya mencoba membuat website ini dengan 3 bahasa pemrograman. yaitu HTML, CSS, dan JavaScript",
-    "status": "active",
+    "status": "Completed",
     "image": "images/project4.png"
   },
   {
     "id": 5,
-    "name": "Project Multimedia Lahai-Roi",
-    "description": "Dalam Project ini, saya diberikan tanggung jawab sebagai teknisi dan cameramen pada tim Multimedia Di Gereja Saya di salah satu Gereja Toraja Jemaat Lahai-Roi Balikpapan",
-    "status": "inactive",
-    "image": "images/project5.png"
+    "name": "Project Sistem Antrian Laravel",
+    "description": "Dalam Project ini, Saya membuat website aplikasi untuk pengambilan serta pemanggilan nomor antrian menggunakan Laravel 12",
+    "status": "Completed",
+    "image": "images/sistem-antrian.png"
   },
   {
     "id": 6,
@@ -41,5 +41,4 @@
     "status": "On Progress",
     "image": "images/YT channel.png"
   }
-  
 ]

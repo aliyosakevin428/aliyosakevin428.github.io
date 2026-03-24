@@ -1,5 +1,5 @@
 import daisyui from 'daisyui';
-import tsh from "tailwind-scrollbar-hide"
+import tsh from 'tailwind-scrollbar-hide';
 
 /** @type {import('tailwindcss').Config} */
 export default {
@@ -9,13 +9,12 @@ export default {
       center: true,
     },
     fontFamily: {
-      ubuntu: ["Ubuntu", "sans-serif"],
+      ubuntu: ['Ubuntu', 'sans-serif'],
     },
     extend: {},
   },
   plugins: [daisyui, tsh],
   daisyui: {
     themes: ['coffee'],
-  }
+  },
 };
-
