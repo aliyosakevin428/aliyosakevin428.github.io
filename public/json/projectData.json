@@ -1,37 +1,45 @@
 [
   {
     "id": 1,
-    "name": "Project Real Drum App",
-    "description": "Saya Mengcover Lagu Dari Salah Satu Vtuber Ternama di Indonesia yang Berjudul Entah... Menggunakan Real Drum Aplikasi Pada Hape Saya",
-    "status": "active" 
-,    "image" : "images/project1.png"
+    "name": "Project Website AxiomDev",
+    "description": "Dalam project ini, saya diberikan tanggung jawab sebagai Backend Developer untuk membuat API beserta database yang digunakan di website AxiomDev menggunakan Laravel dan MySQL.",
+    "status": "Completed",
+    "image": "images/axiomdev.png"
   },
   {
     "id": 2,
-    "name": "Project Real Drum Cover",
-    "description": "Ini Adalah Project saya yang akhir akhir ini yang saya kerjakan. Dari anime yang akhir-akhir ini lagi rame di bahas.",
-    "status": "inactive",
-    "image" : "images/project 2.png"
+    "name": "Project Tugas Akhir Absensi Tim Multimedia Lahai-Roi",
+    "description": "Dalam Project ini, saya Membuat Website Aplikasi Absensi Tim Multimedia Di Gereja Tempat saya Beribadah yaitu Gereja Toraja Jemaat Lahai-Roi Balikpapan Menggunakan Laravel dan React Typescript dan MySQL",
+    "status": "Completed",
+    "image": "images/absensi-multi.png"
   },
   {
     "id": 3,
     "name": "Project Website Restoran",
     "description": "Disini saya dan teman teman saya membuat project website restoran dengan bahasa PHP",
-    "status": "completed",
-    "image" : "images/project3.png"
+    "status": "Completed",
+    "image": "images/project3.png"
   },
   {
     "id": 4,
     "name": "Project Website Company Profile",
     "description": "Di project ini saya hanya mencoba membuat website ini dengan 3 bahasa pemrograman. yaitu HTML, CSS, dan JavaScript",
     "status": "active",
-   "image" : "images/project4.png"
+    "image": "images/project4.png"
   },
   {
     "id": 5,
     "name": "Project Multimedia Lahai-Roi",
     "description": "Dalam Project ini, saya diberikan tanggung jawab sebagai teknisi dan cameramen pada tim Multimedia Di Gereja Saya di salah satu Gereja Toraja Jemaat Lahai-Roi Balikpapan",
     "status": "inactive",
-    "image" : "images/project5.png"
+    "image": "images/project5.png"
+  },
+  {
+    "id": 6,
+    "name": "Project Real Drum Cover Youtube",
+    "description": "Berikut adalah Channel Youtube saya yang selama ini telah menampilkan video tentang drum app. Silahkan di lihat dan subscribe ya...",
+    "status": "On Progress",
+    "image": "images/YT channel.png"
   }
+  
 ]

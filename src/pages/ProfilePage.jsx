@@ -1,12 +1,24 @@
 import { Flame, LayoutDashboard } from 'lucide-react';
-import { SiExpress, SiLaravel, SiReact, SiTypescript } from 'react-icons/si';
+import {
+  SiExpress,
+  SiLaravel,
+  SiReact,
+  SiTailwindcss,
+  SiTypescript,
+} from 'react-icons/si';
 
 const skills = [
   {
     name: 'Laravel',
-    level: 85,
+    level: 83,
     icon: <SiLaravel className="text-red-500 text-xl" />,
     color: 'bg-red-500',
+  },
+  {
+    name: 'Tailwind CSS',
+    level: 75,
+    icon: <SiTailwindcss className="text-pink-500 text-xl" />,
+    color: 'bg-pink-500',
   },
   {
     name: 'React',
@@ -16,7 +28,7 @@ const skills = [
   },
   {
     name: 'TypeScript',
-    level: 65,
+    level: 68,
     icon: <SiTypescript className="text-blue-600 text-xl" />,
     color: 'bg-blue-600',
   },
@@ -26,14 +38,20 @@ const skills = [
     icon: <SiExpress className="text-orange-500 text-xl" />,
     color: 'bg-orange-500',
   },
+  {
+    name: 'React Native (Expo)',
+    level: 65,
+    icon: <SiReact className="text-blue-400 text-xl" />,
+    color: 'bg-blue-400',
+  },
 ];
 
 const experiences = [
   {
-    title: 'Frontend Developer',
+    title: 'Fullstack Developer',
     place: 'Self Learning',
     year: '2023 - Sekarang',
-    desc: 'Mempelajari React, TypeScript, dan membangun berbagai project website.',
+    desc: 'Mempelajari React, Laravel, TypeScript, dan membangun berbagai project website.',
   },
   {
     title: 'Content Creator (Drum Cover)',
@@ -44,8 +62,8 @@ const experiences = [
   {
     title: 'Backend Developer',
     place: 'AxiomDev Software House',
-    year: '2022 - Sekarang',
-    desc: 'Mempelajari Laravel dan membangun berbagai project website.',
+    year: '2025 - Sekarang',
+    desc: 'Membangun API beserta database menggunakan Laravel dan MySQL untuk membangun website AxiomDev dengan Endpoint yang lengkap.',
   },
 ];
 
