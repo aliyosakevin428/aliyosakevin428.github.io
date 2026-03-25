@@ -10,37 +10,37 @@ import {
 const skills = [
   {
     name: 'Laravel',
-    level: 83,
+    level: 70,
     icon: <SiLaravel className="text-red-500 text-xl" />,
     color: 'bg-red-500',
   },
   {
     name: 'Tailwind CSS',
-    level: 75,
+    level: 63,
     icon: <SiTailwindcss className="text-pink-500 text-xl" />,
     color: 'bg-pink-500',
   },
   {
     name: 'React',
-    level: 65,
+    level: 60,
     icon: <SiReact className="text-blue-400 text-xl" />,
     color: 'bg-blue-400',
   },
   {
     name: 'TypeScript',
-    level: 68,
+    level: 64,
     icon: <SiTypescript className="text-blue-600 text-xl" />,
     color: 'bg-blue-600',
   },
   {
     name: 'ExpressJS',
-    level: 60,
+    level: 45,
     icon: <SiExpress className="text-orange-500 text-xl" />,
     color: 'bg-orange-500',
   },
   {
     name: 'React Native (Expo)',
-    level: 65,
+    level: 40,
     icon: <SiReact className="text-blue-400 text-xl" />,
     color: 'bg-blue-400',
   },
@@ -86,7 +86,7 @@ const ProfilePage = () => {
         <div>
           <div className="avatar">
             <div className="w-48 rounded-xl shadow-lg">
-              <img src="images/yuki-peace-sign.png" alt="profile" />
+              <img src="images/kevin-bg-blue.png" alt="profile" />
             </div>
           </div>
         </div>
