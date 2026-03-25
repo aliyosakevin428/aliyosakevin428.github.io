@@ -1,7 +1,7 @@
 import { MessageCircle } from 'lucide-react';
 
 const WhatsappFloat = () => {
-  const phoneNumber = '6289693997765';
+  const phoneNumber = '';
   const message =
     'Halo Kevin, saya tertarik untuk berkolaborasi project dengan Anda.';
 
