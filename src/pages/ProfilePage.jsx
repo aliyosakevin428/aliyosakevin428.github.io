@@ -86,7 +86,7 @@ const ProfilePage = () => {
         <div>
           <div className="avatar">
             <div className="w-48 rounded-xl shadow-lg">
-              <img src="images/kevin-bg-blue.png" alt="profile" />
+              <img src="images/yuki-peace-sign.png" alt="profile" />
             </div>
           </div>
         </div>
@@ -97,7 +97,7 @@ const ProfilePage = () => {
           <div className="card-body">
             <h3 className="card-title">
               <LayoutDashboard className="stroke-accent fill-accent/50" />
-              <span>Fullstack Developer (Web)</span>
+              <span>Fullstack Developer (Website)</span>
             </h3>
 
             <p>

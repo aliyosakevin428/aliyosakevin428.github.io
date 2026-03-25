@@ -17,7 +17,7 @@ const Navbar = () => {
         </a>
       </div>
       <div className="flex-none">
-        <ul className="menu menu-horizontal px-2">
+        <ul className="menu menu-horizontal px-5">
           <li>
             <NavLink to={'/'}>
               <User size="15" />
@@ -27,13 +27,13 @@ const Navbar = () => {
           <li>
             <NavLink to={'/project'}>
               <Box size="15" />
-              <span>Project</span>
+              <span>Projects</span>
             </NavLink>
           </li>
           <li>
             <NavLink to={'/contact'}>
               <Mail size="15" />
-              <span>Contact</span>
+              <span>Contact Me</span>
             </NavLink>
           </li>
         </ul>
