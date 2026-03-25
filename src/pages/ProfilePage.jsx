@@ -86,7 +86,7 @@ const ProfilePage = () => {
         <div>
           <div className="avatar">
             <div className="w-48 rounded-xl shadow-lg">
-              <img src="profile.png" alt="profile" />
+              <img src="images/kevin-bg-blue.png" alt="profile" />
             </div>
           </div>
         </div>

@@ -9,12 +9,12 @@ export default {
       center: true,
     },
     fontFamily: {
-      ubuntu: ['Ubuntu', 'sans-serif'],
+      ubuntu: ['Poppins', 'sans-serif'],
     },
     extend: {},
   },
   plugins: [daisyui, tsh],
   daisyui: {
-    themes: ['coffee'],
+    themes: ['night'],
   },
 };
