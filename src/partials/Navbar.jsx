@@ -7,14 +7,14 @@ const Navbar = () => {
   return (
     <div className="navbar bg-base-300">
       <div className="flex-1">
-        <a className="btn btn-ghost text-xl space-x-1">
+        <NavLink to={'/'} className="btn btn-ghost normal-case text-xl">
           <div className="avatar">
             <div className="w-9 rounded-lg">
               <img src="Vestia Zeta.jpeg" alt="profile" />
             </div>
           </div>
           <span>Aliyosa Kevin</span>
-        </a>
+        </NavLink>
       </div>
       <div className="flex-none">
         <ul className="menu menu-horizontal px-5">

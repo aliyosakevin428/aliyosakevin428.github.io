@@ -10,37 +10,37 @@ import {
 const skills = [
   {
     name: 'Laravel',
-    level: 70,
+    level: 73,
     icon: <SiLaravel className="text-red-500 text-xl" />,
     color: 'bg-red-500',
   },
   {
     name: 'Tailwind CSS',
-    level: 63,
+    level: 64,
     icon: <SiTailwindcss className="text-pink-500 text-xl" />,
     color: 'bg-pink-500',
   },
   {
     name: 'React',
-    level: 60,
+    level: 63,
     icon: <SiReact className="text-blue-400 text-xl" />,
     color: 'bg-blue-400',
   },
   {
     name: 'TypeScript',
-    level: 64,
+    level: 65,
     icon: <SiTypescript className="text-blue-600 text-xl" />,
     color: 'bg-blue-600',
   },
   {
     name: 'ExpressJS',
-    level: 45,
+    level: 50,
     icon: <SiExpress className="text-orange-500 text-xl" />,
     color: 'bg-orange-500',
   },
   {
     name: 'React Native (Expo)',
-    level: 40,
+    level: 45,
     icon: <SiReact className="text-blue-400 text-xl" />,
     color: 'bg-blue-400',
   },
