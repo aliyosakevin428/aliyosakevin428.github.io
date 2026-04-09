@@ -4,6 +4,8 @@
     "name": "Project Website AxiomDev",
     "description": "Dalam project ini, saya diberikan tanggung jawab sebagai Backend Developer untuk membuat API beserta database yang digunakan di website AxiomDev menggunakan Laravel dan MySQL.",
     "status": "Completed",
+    "tech": ["Laravel", "MySQL", "Postman"],
+    "demo": "https://axiomdev.id/",
     "image": "images/axiomdev.png"
   },
   {
@@ -11,13 +13,17 @@
     "name": "Project Tugas Akhir Absensi Tim Multimedia Lahai-Roi",
     "description": "Dalam Project ini, saya Membuat Website Aplikasi Absensi Tim Multimedia Di Gereja Tempat saya Beribadah yaitu Gereja Toraja Jemaat Lahai-Roi Balikpapan Menggunakan Laravel dan React Typescript dan MySQL",
     "status": "Completed",
+    "tech": ["Laravel", "React TS", "MySQL", "Tailwind CSS", "ShadcnUI"],
+    "github": "https://github.com/aliyosakevin428/absensi-multi",
     "image": "images/absensi-multi.png"
   },
   {
     "id": 3,
-    "name": "Project Website Restoran",
-    "description": "Disini saya dan teman teman saya membuat project website restoran dengan bahasa PHP",
+    "name": "Website E-commerce Toko Komputer",
+    "description": "Disini saya membuat website e-commerce toko komputer menggunakan framework Laravel dan MySQL. Di project ini juga saya menggunakan JavaScript library React TS untuk bagian frontendnya",
     "status": "Completed",
+    "tech": ["Laravel", "React TS", "MySQL", "Tailwind CSS", "ShadcnUI"],
+    "github": "https://github.com/aliyosakevin428/e-commerce",
     "image": "images/project3.png"
   },
   {
@@ -25,6 +31,7 @@
     "name": "Project Website Company Profile",
     "description": "Di project ini saya hanya mencoba membuat website ini dengan 3 bahasa pemrograman. yaitu HTML, CSS, dan JavaScript",
     "status": "Completed",
+    "tech": ["HTML", "CSS", "JavaScript"],
     "image": "images/project4.png"
   },
   {
@@ -32,6 +39,15 @@
     "name": "Project Sistem Antrian Laravel",
     "description": "Dalam Project ini, Saya membuat website aplikasi untuk pengambilan serta pemanggilan nomor antrian menggunakan Laravel 12",
     "status": "Completed",
+    "tech": [
+      "Laravel",
+      "React TS",
+      "MySQL",
+      "Tailwind CSS",
+      "ShadcnUI",
+      "Voice Call Queue"
+    ],
+    "github": "https://github.com/aliyosakevin428/sistem-antrian-app",
     "image": "images/sistem-antrian.png"
   },
   {
