@@ -27,7 +27,6 @@ const ProjectPage = () => {
 
   return (
     <section className="space-y-10">
-      {/* Header */}
       <div className="space-y-4 text-center lg:text-left">
         <div className="badge badge-primary badge-outline gap-2 px-4 py-4">
           <FolderKanban size={16} />
@@ -46,7 +45,6 @@ const ProjectPage = () => {
         </p>
       </div>
 
-      {/* Loading */}
       {loading ? (
         <div className="flex justify-center py-16">
           <span className="loading loading-spinner loading-lg text-primary"></span>
@@ -62,7 +60,6 @@ const ProjectPage = () => {
               key={data.id}
               className="group card bg-base-200 border border-base-300 shadow-md hover:shadow-2xl hover:-translate-y-2 transition-all duration-300 overflow-hidden rounded-3xl"
             >
-              {/* Image */}
               <figure className="aspect-video w-full overflow-hidden">
                 <img
                   src={data.image}
@@ -71,7 +68,6 @@ const ProjectPage = () => {
                 />
               </figure>
 
-              {/* Body */}
               <div className="card-body space-y-4">
                 <div className="flex items-start justify-between gap-3">
                   <h3 className="card-title text-lg md:text-xl leading-snug">
@@ -91,7 +87,6 @@ const ProjectPage = () => {
                   {data.description}
                 </p>
 
-                {/* Optional Tech Stack */}
                 {data.tech && (
                   <div className="flex flex-wrap gap-2 pt-2">
                     {data.tech.map((item, index) => (

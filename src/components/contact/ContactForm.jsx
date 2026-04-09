@@ -57,7 +57,6 @@ const ContactForm = () => {
           onSubmit={sendEmail}
           className="grid grid-cols-1 md:grid-cols-2 gap-5"
         >
-          {/* Nama */}
           <label className="form-control w-full">
             <div className="label">
               <span className="label-text font-medium">Nama</span>
@@ -77,7 +76,6 @@ const ContactForm = () => {
             </div>
           </label>
 
-          {/* Email */}
           <label className="form-control w-full">
             <div className="label">
               <span className="label-text font-medium">Email</span>
@@ -97,7 +95,6 @@ const ContactForm = () => {
             </div>
           </label>
 
-          {/* Subjek */}
           <label className="form-control md:col-span-2 w-full">
             <div className="label">
               <span className="label-text font-medium">Subjek</span>
@@ -117,7 +114,6 @@ const ContactForm = () => {
             </div>
           </label>
 
-          {/* Pesan */}
           <label className="form-control md:col-span-2 w-full">
             <div className="label">
               <span className="label-text font-medium">Pesan</span>
@@ -137,7 +133,6 @@ const ContactForm = () => {
             </div>
           </label>
 
-          {/* Button + Status */}
           <div className="md:col-span-2 pt-2 space-y-4">
             <button
               type="submit"
