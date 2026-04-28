@@ -30,11 +30,11 @@ const ProjectPage = () => {
       <div className="space-y-4 text-center lg:text-left">
         <div className="badge badge-primary badge-outline gap-2 px-4 py-4">
           <FolderKanban size={16} />
-          Portfolio Projects
+          Portofolio Projects
         </div>
 
         <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight">
-          My Portfolio
+          My Portofolio
         </h1>
 
         <p className="max-w-3xl text-sm sm:text-base opacity-80 leading-relaxed mx-auto lg:mx-0">

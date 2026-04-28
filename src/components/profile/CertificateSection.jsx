@@ -1,6 +1,6 @@
-import { experiences } from '../../data/profileData';
+import { certifications } from '../../data/profileData';
 
-const ExperienceSection = () => {
+const CertificateSection = () => {
   return (
     <div
       className="
@@ -8,20 +8,20 @@ const ExperienceSection = () => {
       backdrop-blur-lg 
       border border-white/10 
       rounded-2xl 
-      p-5 
+      p-6 
       h-full
     "
     >
       <h2 className="text-2xl font-semibold mb-6 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-        Experience
+        Sertifikat Kompetensi
       </h2>
 
       <div className="relative border-l border-white/20 pl-6 space-y-8">
-        {experiences.map((exp, index) => (
+        {certifications.map((cert, index) => (
           <div key={index} className="relative">
             <div
               className="
-              absolute -left-[10px] top-2 
+              absolute -left-[9px] top-2 
               w-4 h-4 
               bg-gradient-to-r from-blue-400 to-purple-400 
               rounded-full 
@@ -33,21 +33,21 @@ const ExperienceSection = () => {
               className="
               bg-white/5 
               border border-white/10 
-              p-3 
+              p-4 
               rounded-xl 
               hover:bg-white/10 
               hover:translate-x-1
               transition duration-300
             "
             >
-              <h3 className="font-semibold text-base">{exp.title}</h3>
+              <h3 className="font-semibold text-base">{cert.title}</h3>
 
               <p className="text-xs text-white/60 mt-1">
-                {exp.place} • {exp.year}
+                {cert.competency} • {cert.year}
               </p>
 
               <p className="mt-2 text-sm text-white/80 leading-relaxed">
-                {exp.desc}
+                {cert.desc}
               </p>
             </div>
           </div>
@@ -57,4 +57,4 @@ const ExperienceSection = () => {
   );
 };
 
-export default ExperienceSection;
+export default CertificateSection;

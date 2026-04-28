@@ -9,7 +9,7 @@ const Navbar = () => {
       icon: <User size={16} />,
     },
     {
-      name: 'Portfolio',
+      name: 'Portofolio',
       path: '/project',
       icon: <Box size={16} />,
     },
@@ -21,8 +21,7 @@ const Navbar = () => {
   ];
 
   return (
-    <div className="navbar bg-base-300 shadow-sm px-4 md:px-6 lg:px-8">
-      {/* Left */}
+    <div className="navbar sticky top-0 z-50 bg-base-300 shadow-sm px-4 md:px-6 lg:px-8">
       <div className="flex-1">
         <NavLink
           to="/"
@@ -30,14 +29,13 @@ const Navbar = () => {
         >
           <div className="avatar">
             <div className="w-8 md:w-9 rounded-lg">
-              <img src="/Vestia Zeta.jpeg" alt="profile" />
+              <img src="/images/foto-kevin-black-white.png" alt="profile" />
             </div>
           </div>
           <span className="hidden sm:inline">Aliyosa Kevin</span>
         </NavLink>
       </div>
 
-      {/* Desktop Menu */}
       <div className="hidden md:flex">
         <ul className="menu menu-horizontal px-1 gap-2">
           {navLinks.map((item, index) => (
@@ -58,7 +56,6 @@ const Navbar = () => {
         </ul>
       </div>
 
-      {/* Mobile Menu */}
       <div className="dropdown dropdown-end md:hidden">
         <label tabIndex={0} className="btn btn-ghost btn-circle">
           <Menu size={22} />
