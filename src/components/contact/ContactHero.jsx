@@ -29,7 +29,7 @@ const ContactHero = () => {
 
           <div className="flex flex-wrap gap-4 pt-4">
             <a
-              href="/CV_Aliyosa_Kevin.pdf"
+              href="/CV_Transkrip Nilai_Aliyosa_Kevin.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-outline btn-primary rounded-xl px-6 shadow-md hover:scale-105 transition duration-300"
@@ -39,8 +39,8 @@ const ContactHero = () => {
             </a>
 
             <a
-              href="/CV_Aliyosa_Kevin.pdf"
-              download="CV-Aliyosa-Kevin.pdf"
+              href="/CV_Transkrip Nilai_Aliyosa_Kevin.pdf"
+              download="CV_Transkrip-Nilai-Aliyosa-Kevin.pdf"
               className="btn btn-primary rounded-xl px-6 shadow-md hover:scale-105 transition duration-300"
             >
               <Download size={18} />

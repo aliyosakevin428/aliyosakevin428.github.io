@@ -29,8 +29,8 @@ const HeroSection = () => {
           </Link>
 
           <a
-            href="/CV_Aliyosa_Kevin.pdf"
-            download="CV-Aliyosa-Kevin.pdf"
+            href="/CV_Transkrip Nilai_Aliyosa_Kevin.pdf"
+            download="CV_Transkrip-Nilai-Aliyosa-Kevin.pdf"
             className="btn btn-primary rounded-xl px-6 shadow-md hover:scale-105 transition duration-300 w-full sm:w-auto"
           >
             <Download size={18} />
